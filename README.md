@@ -26,5 +26,5 @@ Obrigado por visitar meu perfil! :0
 </div>
 <br>
 
- &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub top language](https://img.shields.io/github/languages/top/AdonisJeronimo/************************?style=plastic)
+ &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub top language](https://img.shields.io/github/languages/top/AdonisJeronimo/appDeReceitas?style=plastic)
 
